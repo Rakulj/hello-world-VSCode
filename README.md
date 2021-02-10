@@ -1,3 +1,3 @@
 # hello-world-VSCode
 
-Hello, this is VS Code
+Changes have been made!
